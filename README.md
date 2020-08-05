@@ -1,9 +1,8 @@
 ### Hello everyoneeee 👋
-<h1> I am <span>João <span><span style="color:red;">Gu<span><span style="color:blue;">i<span><span style="color:green;">lh<span><span style="color:orange;">er<span><span style="color:yellow;">me<span>
+<h1> ✨✨✨ I am <span>João <span><span style="color:red;">Gu<span><span style="color:blue;">i<span><span style="color:green;">lh<span><span style="color:orange;">er<span><span style="color:yellow;">me<span>
   ✨✨✨.</h1>
 
-<> ✨ I am a young boy, brazillian , doing college about Analysis and Development of systems on FATEC - PG ✨ </>
-<> I like back-end developvment and PHP and NodeJS tecnologics</>
+<> ✨ I am a young boy, brazillian , doing college about Analysis and Development of systems on FATEC - PG ✨ </> ✨ I like back-end developvment and PHP and NodeJS tecnologics  ✨ </>
 
 # Social Media to contact.⚡
 
