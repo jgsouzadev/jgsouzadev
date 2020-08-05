@@ -6,7 +6,7 @@
 
 # Social Media to contact.⚡
 
-LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/
+LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/<br>
 E-mail: souza.joaoguilherme2002@gmail.com
 <!--
 **jgsouzadev/jgsouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
