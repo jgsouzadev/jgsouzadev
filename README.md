@@ -1,21 +1,11 @@
-### Hello everyoneeee 👋
-<h1> ✨✨✨ I am <span>João <span><span style="color:red;">Gu<span><span style="color:blue;">i<span><span style="color:green;">lh<span><span style="color:orange;">er<span><span style="color:yellow;">me<span>
-  ✨✨✨.</h1>
-# Social Media to contact.⚡
+# Welcome, I'm João Guilherme!
 
-LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/<br>
-E-mail: souza.joaoguilherme2002@gmail.com
-<!--
-**jgsouzadev/jgsouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/jgsouzadev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+I'm a {backend} developer looking a opportunity to works and improve my skills.).
+
+
+I've a little experience with NodeJs and PHP, but I'm open to projects to learn new technologies. 
