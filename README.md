@@ -1,5 +1,5 @@
-<section align="center">
-# Welcome, I'm João Guilherme!
+<div align="center">
+Welcome, I'm João Guilherme!
 
 
 
@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513996035506&text=Eai!)](https://api.whatsapp.com/send?phone=5513996035506&text=Hello!)
 
-</section>
+</div>
 <h1>About me</h1>
 
 <ul>
