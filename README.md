@@ -20,3 +20,4 @@
 </ul>
 
 <div align="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgsouzadev&show_icons=true&theme=radical)</div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgsouzadev&show_icons=true&theme=radical)
