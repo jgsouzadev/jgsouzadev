@@ -7,9 +7,16 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513996035506&text=Eai!)](https://api.whatsapp.com/send?phone=5513996035506&text=Hello!)
 
 ### About me
-I'm a {backend} developer looking a opportunity to works and improve my skills.).
 
+<ul>
+<li>I'm a { backend } developer looking a opportunity to works and improve my skills.).</li>
 
-I've a little experience with NodeJs and PHP, but I'm open to projects to learn new technologies. 
+<li>I've a experience with NodeJs and PHP, but I'm open to learn new technologies.</li> 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgsouzadev&show_icons=true&theme=radical)
+<li>I'm studying Analysis and Development of Systems at Fatec PG</li>
+
+<li>I've 18 years old </li>
+
+</ul>
+
+<p align="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgsouzadev&show_icons=true&theme=radical)</p>
