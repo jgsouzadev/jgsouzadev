@@ -7,7 +7,7 @@ Welcome, I'm João Guilherme!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513996035506&text=Eai!)](https://api.whatsapp.com/send?phone=5513996035506&text=Hello!)
 
-</div>
+
 <h1>About me</h1>
 
 <ul>
@@ -22,3 +22,5 @@ Welcome, I'm João Guilherme!
 </ul>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgsouzadev&show_icons=true&theme=radical)
+
+</div>
