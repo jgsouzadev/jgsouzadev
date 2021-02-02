@@ -11,9 +11,9 @@
 <h1>About me</h1>
 
 <ul>
-<li>I'm a { backend } developer looking a opportunity to works and improve my skills.).</li>
+<li>I'm a { backend } developer at FCamara Consulting and Training.</li>
 
-<li>I've a experience with NodeJs and PHP, but I'm open to learn new technologies.</li> 
+<li>I've a experience with NodeJs, PHP, Java (Spring Boot).</li> 
 
 <li>I'm studying Analysis and Development of Systems at Fatec PG</li>
 
