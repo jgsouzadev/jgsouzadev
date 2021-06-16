@@ -4,16 +4,16 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-de-souza-40b427195/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgsouzadev//)](https://www.linkedin.com/in/jgsouzadev//)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513996035506&text=Eai!)](https://api.whatsapp.com/send?phone=5513996035506&text=Hello!)
 
 
 <h1>About me</h1>
 
 <ul>
-<li>I'm a { backend } developer at FCamara Consulting and Training.</li>
+<li>I'm a { fullstack } developer at FCamara Consulting and Training.</li>
 
-<li>I've a experience with NodeJs, PHP, Java (Spring Boot).</li> 
+<li>I've a experience with NodeJs, PHP, Java (Spring Boot) and Frontend frameworks(React and Vue).</li> 
 
 <li>I'm studying Analysis and Development of Systems at Fatec PG</li>
 
