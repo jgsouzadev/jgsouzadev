@@ -13,7 +13,7 @@
 <ul>
 <li>I'm a { fullstack } developer at FCamara Consulting and Training.</li>
 
-<li>I've a experience with NodeJs, PHP, Java (Spring Boot) and Frontend frameworks(React and Vue).</li> 
+<li>I've a experience with NodeJs, PHP, Java (Spring Boot) and Frontend libs/frameworks(React and Vue).</li> 
 
 <li>I'm studying Analysis and Development of Systems at Fatec PG</li>
 
