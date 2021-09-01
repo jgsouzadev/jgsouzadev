@@ -17,7 +17,7 @@
 
 <li>I'm studying Analysis and Development of Systems at Fatec PG</li>
 
-<li>I've 19 years old </li>
+<li>I'm 19 years old </li>
 
 </ul>
 
