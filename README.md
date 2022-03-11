@@ -11,13 +11,13 @@
 <h1>About me</h1>
 
 <ul>
-<li>I'm a { fullstack } developer at FCamara Consulting and Training.</li>
+<li>I'm a Software Engineer at Sinch/Movile.</li>
 
-<li>I've a experience with NodeJs, PHP, Java (Spring Boot) and Frontend libs/frameworks(React and Vue).</li> 
+<li>I've a experience with NodeJs, PHP, Java and Kotlin (Spring Boot) and Frontend libs/frameworks(React and Vue).</li> 
 
 <li>I'm studying Analysis and Development of Systems at Fatec PG</li>
 
-<li>I'm 19 years old </li>
+<li>I'm 20 years old </li>
 
 </ul>
 
