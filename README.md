@@ -13,7 +13,7 @@
 <ul>
 <li>I'm a Software Engineer at Sinch/Movile.</li>
 
-<li>I've a experience with NodeJs, PHP, Java and Kotlin (Spring Boot) and Frontend libs/frameworks(React and Vue).</li> 
+<li>I've a experience with NodeJs, Java and Kotlin (Spring Boot) and Frontend libs/frameworks(React and Vue).</li> 
 
 <li>I'm studying Analysis and Development of Systems at Fatec PG</li>
 
