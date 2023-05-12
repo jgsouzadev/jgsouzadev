@@ -8,7 +8,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513996035506&text=Eai!)](https://api.whatsapp.com/send?phone=5513996035506&text=Hello!)
 
 
-  <h1>I'm a developer and sometimes i created something here.</h1>
+  <h1>I'm a developer and sometimes i crate something here.</h1>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgsouzadev&show_icons=true&theme=radical)
 
 </div>
