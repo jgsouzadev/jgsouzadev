@@ -12,8 +12,8 @@
 
 ## Companies I worked with (Just Long-Term Contract)
 <div>
-<img height="100px" src="https://fcamara.nacao.digital/wp-content/uploads/2022/08/F-simbolo.png"/>
-
+<img height="100px" src="https://fcamara.nacao.digital/wp-content/uploads/2022/08/logo-1.png"/>
+</div>
 
 ## Knowledge
 <div style="display: flex; gap: 10px;">
