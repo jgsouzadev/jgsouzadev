@@ -12,7 +12,8 @@
 
 ## Companies I worked with (Just Long-Term Contract)
 <div>
-<img height="100px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABtElEQVR4AczVg24sQACF4Vlc27Zt24xx+RSN+gC1bUf1IzRsVBtB7TaoPf1rzyqb6Um+5eDMUqwVA+T/RztwD5/weYnX2I7r+GyjD9gnFGHjh0YGPUUm2jGwQi3OIxQDNurCC7FeDBydAU9QA7mOJlxANKSNBvBKcfpH25AGqavANbTqLPAS/ZAKjTjvrAIX0QipUI4jdhbowC1VgS1IhFzHBPxgsrNANrYLovr+30QBJtfYPAdnD24xCzsKFOG+sBQGCVxHJCrQgDL44izE/tkCXmi0oAFViMVNCKvDYDOO4gwOwyTmYuIHg/sHcc6CszgKsyC2bL4Fr+CKKETbIBKKo1refDfc0QNphzH8tndzI1wwAqmjwAlUQOoq8Bx9Ogu8wgCkA4bxXWeBelzSVWAMnjDrKNCHGBx25DfgEkIRbaNA/FT80dhT5rGJBQ/hzAonYBbOCosLXIEfSlC/Qi5OCMej/DvOx6TiU37GWaffihRICR0FbqBNZ4FXGNjoBUpwSFeBSQTDpKtAPq468zdgatbQDuRXNPwCiJcDsR4QM9DSAYJA7IzWpXYFYiNwMUsDAAAxRhKkJXD8ZgAAAABJRU5ErkJggg=="/>
+<img height="100px" src="![image](https://github.com/jgsouzadev/jgsouzadev/assets/57119331/e6015267-c692-49cf-bfd8-a7f2e6d1a179)
+"/>
 
 
 ## Knowledge
