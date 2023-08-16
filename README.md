@@ -8,7 +8,37 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513996035506&text=Eai!)](https://api.whatsapp.com/send?phone=5513996035506&text=Hello!)
 
 
-  <h1>I'm a developer and sometimes i crate something here.</h1>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgsouzadev&show_icons=true&theme=radical)
+  <h1>I'm a developer and sometimes i create something here.</h1>
 
+## Companies I worked with (Just Long-Term Contract)
+<div>
+<img height="100px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABtElEQVR4AczVg24sQACF4Vlc27Zt24xx+RSN+gC1bUf1IzRsVBtB7TaoPf1rzyqb6Um+5eDMUqwVA+T/RztwD5/weYnX2I7r+GyjD9gnFGHjh0YGPUUm2jGwQi3OIxQDNurCC7FeDBydAU9QA7mOJlxANKSNBvBKcfpH25AGqavANbTqLPAS/ZAKjTjvrAIX0QipUI4jdhbowC1VgS1IhFzHBPxgsrNANrYLovr+30QBJtfYPAdnD24xCzsKFOG+sBQGCVxHJCrQgDL44izE/tkCXmi0oAFViMVNCKvDYDOO4gwOwyTmYuIHg/sHcc6CszgKsyC2bL4Fr+CKKETbIBKKo1refDfc0QNphzH8tndzI1wwAqmjwAlUQOoq8Bx9Ogu8wgCkA4bxXWeBelzSVWAMnjDrKNCHGBx25DfgEkIRbaNA/FT80dhT5rGJBQ/hzAonYBbOCosLXIEfSlC/Qi5OCMej/DvOx6TiU37GWaffihRICR0FbqBNZ4FXGNjoBUpwSFeBSQTDpKtAPq468zdgatbQDuRXNPwCiJcDsR4QM9DSAYJA7IzWpXYFYiNwMUsDAAAxRhKkJXD8ZgAAAABJRU5ErkJggg=="/>
+
+
+## Knowledge
+<div style="display: flex; gap: 10px;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</div>
+
+ 
 </div>
