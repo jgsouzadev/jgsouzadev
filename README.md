@@ -1,13 +1,6 @@
 <div align="center">
   <h2 color="blue">Welcome, I'm João Guilherme!</h2>
 
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgsouzadev//)](https://www.linkedin.com/in/jgsouzadev//)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513996035506&text=Eai!)](https://api.whatsapp.com/send?phone=5513996035506&text=Hello!)
-
-
   <h1>I'm a developer and sometimes i create something here.</h1>
 
 ## Companies I worked with (Just Long-Term Contract)
@@ -50,4 +43,12 @@
 </div>
 
  
+</div>
+
+<div>
+
+ <h1>Feel free to reach me at</h1>
+
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgsouzadev//)](https://www.linkedin.com/in/jgsouzadev//)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513996035506&text=Eai!)](https://api.whatsapp.com/send?phone=5513996035506&text=Hello!)
 </div>
