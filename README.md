@@ -17,8 +17,6 @@
 <img height="100px" src="https://fcamara.nacao.digital/wp-content/uploads/2022/08/logo-1.png"/>
 <img height="100px" src="https://fcamara.nacao.digital/wp-content/uploads/2022/08/logo-1.png"/>
 
-</div>
-
 ## Knowledge
 <div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
