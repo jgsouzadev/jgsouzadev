@@ -12,7 +12,7 @@
 
 ## Companies I worked with (Just Long-Term Contract)
 <div>
-<img height="100px" src="![image](https://github.com/jgsouzadev/jgsouzadev/assets/57119331/e6015267-c692-49cf-bfd8-a7f2e6d1a179)"/>
+<img height="100px" src="https://fcamara.nacao.digital/wp-content/uploads/2022/08/F-simbolo.png"/>
 
 
 ## Knowledge
